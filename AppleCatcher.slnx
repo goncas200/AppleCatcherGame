@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="AppleCatcher.vcxproj" Id="8b36697e-123e-40ea-972f-2a3634df21ec" />
+</Solution>
